@@ -1,0 +1,26 @@
+.App{
+  margin-left: 50%;
+  margin-top: 100px;
+}
+
+.comment-box{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  width: 400px;
+}
+
+.content{
+  margin-bottom: 3px;
+}
+
+.action-block{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.like{
+  margin-right: 5px;
+}
